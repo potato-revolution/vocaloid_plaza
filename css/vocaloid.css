@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+section {
+  margin-top: -100px;
+  padding-top: 100px;
+}
